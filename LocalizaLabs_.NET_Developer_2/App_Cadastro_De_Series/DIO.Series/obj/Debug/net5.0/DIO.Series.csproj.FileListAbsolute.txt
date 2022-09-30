@@ -1,0 +1,32 @@
+/home/daniel/Imagens/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/daniel/Imagens/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/daniel/Imagens/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/daniel/Imagens/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/daniel/Imagens/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/daniel/Imagens/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/daniel/Imagens/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/daniel/Imagens/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/daniel/Imagens/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Imagens/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/daniel/Imagens/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/daniel/Imagens/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/daniel/Imagens/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/daniel/Imagens/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/daniel/Imagens/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/daniel/Imagens/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/daniel/estudos/Bootcamps Dio/LocalizaLabs .NET Developer 2/23 Criando um APP simples de cadastro de séries em .NET/Projeto/v0/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
