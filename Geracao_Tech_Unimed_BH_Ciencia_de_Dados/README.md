@@ -5,3 +5,5 @@
 ### [dio-live-dynamodb](./dio-live-dynamodb)
 
 ### [dio-live-athena](./dio-live-athena)
+
+### [projeto_db_ecommerce](./projeto_db_ecommerce)
