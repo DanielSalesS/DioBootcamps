@@ -9,3 +9,5 @@
 ### [projeto_db_ecommerce](./projeto_db_ecommerce)
 
 ### [projeto_db_ecommerce](./projeto_db_oficina_os)
+
+### [projeto_db_ecommerce_logico](./projeto_db_ecommerce_logico)
