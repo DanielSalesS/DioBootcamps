@@ -13,3 +13,5 @@
 ### [projeto_db_ecommerce_logico](./projeto_db_ecommerce_logico)
 
 ### [projeto_db_oficina_os_logico](./projeto_db_oficina_os_logico)
+
+### [transfer_learning](./transfer_learning)
