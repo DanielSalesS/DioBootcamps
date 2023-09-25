@@ -8,6 +8,4 @@
 
 ## [Geração Tech Unimed-BH - Ciência de Dados](./Geracao_Tech_Unimed_BH_Ciencia_de_Dados)
 
-
-
-
+## [Code Update TQI - Backend com Kotlin e Java](./Code_Update_TQI_Backend_com_Kotlin_e_Java)
